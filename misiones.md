@@ -4,3 +4,4 @@
 2. Crear la liga de la justicia
 3. Buscar nuevos miembros para la liga
 4. Investigar los trabajos del Joker
+5. Investigarlos planes de DeadShotgit
